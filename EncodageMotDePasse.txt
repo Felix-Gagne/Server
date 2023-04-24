@@ -1,0 +1,8 @@
+-Elle se trouve dans la classe configSecurity.
+
+-Elle permet d'encrypter le mot de passe automatiquement sans 
+avoir à le faire manuellement par la suite, améliorant ainsi la sécurité de l'application.
+
+-En utlisant d'autre méthode dans le serveur on peux se rendre compte de la différence entre
+celle utilisé dans le serveur et les autres. Par exemple, si on décommente la ligne en dessous du password encoder, 
+on se rend compte que le mot de passe n'est soudainement plus encoder.

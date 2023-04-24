@@ -1,0 +1,7 @@
+-Le champ password de la classe user et le nom des tâches aussi.
+
+-Le mot de passe est assez nécésaire pour pas que quelqu'un accède à la base de donné 
+et aille accès à tout les mots de passe mais le nom de tâche n'est pas nécésaire.
+
+-Selon moi encrypter un l'id d'un user serais utile pour être sur que personne autre que
+le code soit capable de relier une tâche à un user.
